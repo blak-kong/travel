@@ -18,7 +18,7 @@ export default {
   data () {
     return {
       swiperOption: {
-        pagination: '.swiper-pagination', //下标点
+        pagination: '.swiper-pagination', // 下标点
         loop: true // 轮播
       },
       swiperList: [{
