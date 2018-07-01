@@ -18,7 +18,7 @@
 export default {
   name: 'Icons',
   props: {
-    list:Array
+    list: Array
   },
   data () {
     return {
